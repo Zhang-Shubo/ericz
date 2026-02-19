@@ -1,6 +1,6 @@
 ---
 title: 从PC到AI：每个技术时代的成功范式
-date: 2025-07-07
+date: 2026-02-18
 authors: [eric]
 tags: [research, paradigm, PC, internet, mobile, AI, business-model, platform, success-pattern]
 ---
