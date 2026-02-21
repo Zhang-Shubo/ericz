@@ -10,7 +10,7 @@ tags: [human-ai-collaboration, collaboration, paradigm-shift, 人机协作, 协�
 
 但当协作对象从人变成AI，这些直觉几乎全部失效。
 
-![从人人协作到人AI协作的范式转变](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/01-framework-paradigm-shift.png)
+![从人人协作到人AI协作的范式转变](https://r2.ericz.info/blog/human-to-ai-collab/01-framework-paradigm-shift.png)
 
 在[《人与AI协作的交互新范式》](/blog/2026/02/20/人与AI协作的交互新范式)中，我们讨论了一个核心矛盾：AI之间靠协议高效通信，而人与AI之间还在用文本框对话。那篇文章聚焦于交互界面的进化方向。这篇文章往回退一步——不谈界面，谈心智模型。
 
@@ -26,7 +26,7 @@ tags: [human-ai-collaboration, collaboration, paradigm-shift, 人机协作, 协�
 
 区别在哪？分工是平等的——我不需要理解你怎么写后端，你也不需要知道我怎么画设计稿，我们约定好接口就行。但委托是不对称的——你把一件事交给AI，你需要描述清楚你要什么，然后审查它交回来的东西。AI不会跟你"协商"接口，它会直接给你一个完整结果。
 
-![分工 vs 委托](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/02-comparison-division-vs-delegation.png)
+![分工 vs 委托](https://r2.ericz.info/blog/human-to-ai-collab/02-comparison-division-vs-delegation.png)
 
 这意味着一个根本性的角色转变：**你从"执行者之一"变成了"委托方+审查方"**。
 
@@ -45,7 +45,7 @@ tags: [human-ai-collaboration, collaboration, paradigm-shift, 人机协作, 协�
 
 AI不需要你跟它建立共识。AI需要的是**清晰的意图**。
 
-![共识驱动 vs 意图驱动](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/03-comparison-consensus-vs-intent.png)
+![共识驱动 vs 意图驱动](https://r2.ericz.info/blog/human-to-ai-collab/03-comparison-consensus-vs-intent.png)
 
 "共识"和"意图"的区别：共识是双方对同一件事的理解趋同，意图是单方面的"我要什么"。跟人合作时你需要确保对方理解你的想法，跟AI合作时你只需要确保自己清楚自己要什么——剩下的AI来推断。
 
@@ -64,7 +64,7 @@ AI不需要你跟它建立共识。AI需要的是**清晰的意图**。
 
 对AI的信任不应该是社会性的，而应该是**机制性的**。
 
-![社会性信任 vs 机制性验证](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/04-comparison-trust-vs-verify.png)
+![社会性信任 vs 机制性验证](https://r2.ericz.info/blog/human-to-ai-collab/04-comparison-trust-vs-verify.png)
 
 什么意思？不要因为AI上次做得好就默认它这次也行。AI不会"成长"或"变懒"——它的表现取决于输入和模型状态，而非积累的工作态度。每一次输出都应该被独立验证。
 
@@ -81,7 +81,7 @@ AI不需要你跟它建立共识。AI需要的是**清晰的意图**。
 
 人与AI协作需要的不是沟通技巧，而是**提示工程**——虽然这个词已经被用滥了，但它指向一个真实的能力：用最少的信息传递最准确的意图。
 
-![沟通技巧 vs 提示工程](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/05-comparison-communication-vs-prompting.png)
+![沟通技巧 vs 提示工程](https://r2.ericz.info/blog/human-to-ai-collab/05-comparison-communication-vs-prompting.png)
 
 两者的差异很有趣：
 
@@ -102,7 +102,7 @@ AI不需要你跟它建立共识。AI需要的是**清晰的意图**。
 
 AI没有时区，没有工作时间，不需要休息。这意味着人与AI的协作节奏需要完全重新设计。
 
-![同步批处理 vs 异步流处理](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/06-comparison-sync-vs-async.png)
+![同步批处理 vs 异步流处理](https://r2.ericz.info/blog/human-to-ai-collab/06-comparison-sync-vs-async.png)
 
 最大的变化是：**批处理变成了流处理**。
 
@@ -121,7 +121,7 @@ AI没有时区，没有工作时间，不需要休息。这意味着人与AI的�
 
 人与AI协作的价值来自**能力增幅**——AI放大了你已有的能力。这种增幅是乘法式的：你的判断力 × AI的执行力。
 
-![加法 vs 乘法](https://pub-fc8180563b493f6af4b044929e2441bd.r2.dev/blog/human-to-ai-collab/07-framework-addition-vs-multiplication.png)
+![加法 vs 乘法](https://r2.ericz.info/blog/human-to-ai-collab/07-framework-addition-vs-multiplication.png)
 
 这个区别意味着什么？意味着**你自身的"基数"变得更重要了**。
 
